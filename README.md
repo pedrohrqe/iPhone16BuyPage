@@ -15,7 +15,7 @@ Recriação da página de compra do iPhone 16 utilizando **HTML**, **CSS** e **J
 ## Como usar  
 1. Clone o repositório:  
    ```bash  
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git  
+   git clone https://github.com/pedrohrqe/iPhone16BuyPage
    ```  
 2. Abra o arquivo `index.html` no navegador.  
 
