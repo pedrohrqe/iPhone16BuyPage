@@ -1,4 +1,4 @@
-# Clone da Página de Compra do iPhone 16  
+# Página de Compra do iPhone 16  
 
 Recriação da página de compra do iPhone 16 utilizando **HTML**, **CSS** e **JavaScript**.  
 
